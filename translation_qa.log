@@ -1,0 +1,104 @@
+2025-06-18 13:26:11,175 - TranslationQA - WARNING - 润色模型加载失败，将使用基础润色策略: We couldn't connect to 'https://huggingface.co' to load the files, and couldn't find them in the cached files.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2025-06-18 13:26:11,455 - TranslationQA - WARNING - 问答模型加载失败，将使用基础问答策略: We couldn't connect to 'https://huggingface.co' to load the files, and couldn't find them in the cached files.
+Checkout your internet connection or see how to run the library in offline mode at 'https://huggingface.co/docs/transformers/installation#offline-mode'.
+2025-06-18 13:26:11,456 - TranslationQA - INFO - 高级翻译助手初始化完成，GPU加速: 禁用
+2025-06-18 13:26:11,654 - TranslationQA - ERROR - 百度翻译API错误: Invalid Access Limit
+2025-06-18 13:32:34,799 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-18 13:32:34,799 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-18 13:32:34,799 - TranslationQA - INFO - 高级翻译助手初始化完成（仅使用百度API）
+2025-06-18 13:32:35,053 - TranslationQA - ERROR - 百度翻译API错误: Invalid Access Limit
+2025-06-18 13:36:21,717 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-18 13:36:21,717 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-18 13:36:21,717 - TranslationQA - INFO - 高级翻译助手初始化完成（仅使用百度API）
+2025-06-18 13:36:21,938 - TranslationQA - ERROR - 百度翻译API错误: Invalid Access Limit
+2025-06-18 13:38:55,271 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-18 13:38:55,271 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-18 13:38:55,272 - TranslationQA - INFO - 高级翻译助手初始化完成（仅使用百度API）
+2025-06-18 13:38:55,795 - TranslationQA - ERROR - 百度翻译API错误: Invalid Access Limit
+2025-06-18 13:41:16,140 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-18 13:41:16,140 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-18 13:41:16,140 - TranslationQA - INFO - 高级翻译助手初始化完成（仅保留口语翻译功能）
+2025-06-18 13:45:45,771 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-18 13:45:45,771 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-18 13:45:45,771 - TranslationQA - INFO - 高级翻译助手初始化完成（仅保留口语翻译功能）
+2025-06-18 13:45:59,142 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-18 13:45:59,142 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-18 13:45:59,142 - TranslationQA - INFO - 高级翻译助手初始化完成（仅保留口语翻译功能）
+2025-06-18 13:49:31,374 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-18 13:49:31,377 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-18 13:49:31,378 - TranslationQA - INFO - 高级翻译助手初始化完成（仅保留口语翻译功能）
+2025-06-18 13:56:16,322 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-18 13:56:16,322 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-18 13:56:16,322 - TranslationQA - INFO - 高级翻译助手初始化完成（仅保留口语翻译功能）
+2025-06-19 19:28:03,557 - TranslationQA - WARNING - 未提供百度翻译API凭证，云翻译功能可能受限
+2025-06-19 19:28:03,557 - TranslationQA - INFO - 请通过环境变量或参数传入APP ID和Secret Key
+2025-06-19 19:28:03,558 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-19 19:28:03,558 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-19 19:28:03,558 - TranslationQA - INFO - 高级翻译助手初始化完成（仅保留口语翻译功能）
+2025-06-19 19:31:44,046 - TranslationQA - WARNING - 未提供百度翻译API凭证，云翻译功能可能受限
+2025-06-19 19:31:44,047 - TranslationQA - INFO - 请通过环境变量或参数传入APP ID和Secret Key
+2025-06-19 19:31:44,047 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-19 19:31:44,047 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-19 19:31:44,047 - TranslationQA - INFO - 高级翻译助手初始化完成（仅保留口语翻译功能）
+2025-06-19 19:34:53,248 - TranslationQA - WARNING - 未提供百度翻译API凭证，云翻译功能可能受限
+2025-06-19 19:34:53,248 - TranslationQA - INFO - 请通过环境变量或参数传入APP ID和Secret Key
+2025-06-19 19:34:53,248 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-19 19:34:53,248 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-19 19:34:53,249 - TranslationQA - INFO - 高级翻译助手初始化完成（仅保留口语翻译功能）
+2025-06-19 19:35:16,416 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-19 19:35:16,416 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-19 19:35:16,416 - TranslationQA - INFO - 高级翻译助手初始化完成（仅保留口语翻译功能）
+2025-06-19 19:36:24,749 - TranslationQA - ERROR - 百度翻译API错误: Invalid Sign
+2025-06-19 19:37:41,783 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-19 19:37:41,784 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-19 19:37:41,784 - TranslationQA - INFO - 高级翻译助手初始化完成（仅保留口语翻译功能）
+2025-06-19 19:38:24,226 - TranslationQA - INFO - 文本润色器初始化完成（规则化策略）
+2025-06-19 19:38:24,226 - TranslationQA - INFO - 翻译问答系统初始化完成
+2025-06-19 19:38:24,226 - TranslationQA - INFO - 高级翻译助手初始化完成（仅保留口语翻译功能）
+2025-06-19 19:46:58,196 - TranslationQA - INFO - 翻译助手初始化完成（仅保留基础翻译功能）
+2025-06-19 19:50:42,353 - TranslationQA - INFO - 问答系统初始化完成（基于规则和历史）
+2025-06-19 19:50:42,353 - TranslationQA - INFO - 翻译助手初始化完成（支持翻译和自动问答）
+2025-06-19 19:50:42,354 - TranslationQA - INFO - 问答系统初始化完成（基于规则和历史）
+2025-06-19 19:50:42,354 - TranslationQA - INFO - 翻译助手初始化完成（支持翻译和自动问答）
+2025-06-19 19:57:09,467 - TranslationQA - INFO - 问答系统初始化完成（基于规则和历史）
+2025-06-19 19:57:09,467 - TranslationQA - INFO - 翻译助手初始化完成（支持翻译和自动问答）
+2025-06-19 19:57:09,468 - TranslationQA - INFO - 问答系统初始化完成（基于规则和历史）
+2025-06-19 19:57:09,468 - TranslationQA - INFO - 翻译助手初始化完成（支持翻译和自动问答）
+2025-06-19 19:58:56,523 - TranslationQA - INFO - 问答系统初始化完成（基于规则和历史）
+2025-06-19 19:58:56,523 - TranslationQA - INFO - 翻译助手初始化完成（支持翻译和自动问答）
+2025-06-19 19:58:56,523 - TranslationQA - INFO - 问答系统初始化完成（基于规则和历史）
+2025-06-19 19:58:56,523 - TranslationQA - INFO - 翻译助手初始化完成（支持翻译和自动问答）
+2025-06-19 20:22:36,111 - TranslationQA - INFO - 混合问答系统初始化完成（翻译+理解一体化）
+2025-06-19 20:22:36,112 - TranslationQA - INFO - 一体化翻译助手初始化完成（支持翻译+理解+问答）
+2025-06-19 20:22:36,112 - TranslationQA - INFO - 混合问答系统初始化完成（翻译+理解一体化）
+2025-06-19 20:22:36,112 - TranslationQA - INFO - 一体化翻译助手初始化完成（支持翻译+理解+问答）
+2025-06-19 20:23:57,779 - TranslationQA - ERROR - 调用百度千帆模型失败: HTTPSConnectionPool(host='qianfan.baidu.com', port=443): Max retries exceeded with url: /v2/chat/completions (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001C9B69917F0>: Failed to resolve 'qianfan.baidu.com' ([Errno 11001] getaddrinfo failed)"))
+2025-06-19 20:37:03,378 - TranslationQA - INFO - 混合问答系统初始化完成（翻译+理解一体化）
+2025-06-19 20:37:03,378 - TranslationQA - INFO - 一体化翻译助手初始化完成（支持翻译+理解+问答）
+2025-06-19 20:37:03,378 - TranslationQA - INFO - 混合问答系统初始化完成（翻译+理解一体化）
+2025-06-19 20:37:03,379 - TranslationQA - INFO - 一体化翻译助手初始化完成（支持翻译+理解+问答）
+2025-06-19 20:46:50,361 - TranslationQA - WARNING - 未提供百度翻译API凭证，云翻译功能可能受限
+2025-06-19 20:46:50,361 - TranslationQA - INFO - 请通过环境变量或参数传入APP ID和Secret Key
+2025-06-19 20:46:50,361 - TranslationQA - WARNING - 未提供百度千帆API凭证，大模型功能可能受限
+2025-06-19 20:46:50,361 - TranslationQA - INFO - 混合问答系统初始化完成（翻译+理解一体化）
+2025-06-19 20:46:50,361 - TranslationQA - INFO - 一体化翻译助手初始化完成（支持翻译+理解+问答）
+2025-06-19 20:46:50,364 - TranslationQA - WARNING - 未提供百度翻译API凭证，云翻译功能可能受限
+2025-06-19 20:46:50,364 - TranslationQA - INFO - 请通过环境变量或参数传入APP ID和Secret Key
+2025-06-19 20:46:50,364 - TranslationQA - WARNING - 未提供百度千帆API凭证，大模型功能可能受限
+2025-06-19 20:46:50,364 - TranslationQA - INFO - 混合问答系统初始化完成（翻译+理解一体化）
+2025-06-19 20:46:50,364 - TranslationQA - INFO - 一体化翻译助手初始化完成（支持翻译+理解+问答）
+2025-06-19 20:47:06,820 - TranslationQA - WARNING - 未提供百度翻译API凭证，云翻译功能可能受限
+2025-06-19 20:47:06,820 - TranslationQA - INFO - 请通过环境变量或参数传入APP ID和Secret Key
+2025-06-19 20:47:06,820 - TranslationQA - WARNING - 未提供百度千帆API凭证，大模型功能可能受限
+2025-06-19 20:47:06,820 - TranslationQA - INFO - 混合问答系统初始化完成（翻译+理解一体化）
+2025-06-19 20:47:06,820 - TranslationQA - INFO - 一体化翻译助手初始化完成（支持翻译+理解+问答）
+2025-06-19 20:47:06,821 - TranslationQA - WARNING - 未提供百度翻译API凭证，云翻译功能可能受限
+2025-06-19 20:47:06,821 - TranslationQA - INFO - 请通过环境变量或参数传入APP ID和Secret Key
+2025-06-19 20:47:06,821 - TranslationQA - WARNING - 未提供百度千帆API凭证，大模型功能可能受限
+2025-06-19 20:47:06,821 - TranslationQA - INFO - 混合问答系统初始化完成（翻译+理解一体化）
+2025-06-19 20:47:06,821 - TranslationQA - INFO - 一体化翻译助手初始化完成（支持翻译+理解+问答）
+2025-06-19 20:47:46,521 - TranslationQA - INFO - 混合问答系统初始化完成（翻译+理解一体化）
+2025-06-19 20:47:46,521 - TranslationQA - INFO - 一体化翻译助手初始化完成（支持翻译+理解+问答）
+2025-06-19 20:47:46,522 - TranslationQA - INFO - 混合问答系统初始化完成（翻译+理解一体化）
+2025-06-19 20:47:46,522 - TranslationQA - INFO - 一体化翻译助手初始化完成（支持翻译+理解+问答）
